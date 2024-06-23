@@ -68,3 +68,8 @@ Start the server
  - [react-google-charts for the charting library](https://www.react-google-charts.com/)
   - [AG Grid for more flexible Data Grid](https://www.ag-grid.com/)
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://seeranjeeviramavelportfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seeranjeeviramavel/)
+
